@@ -1,0 +1,43 @@
+.contact{
+    background-color: rgb(233, 233, 233 , 0.8);
+    border: 2px solid rgb(30, 36, 85);
+    height:auto;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 90px;
+}
+.contact .formcontact{
+    text-align: center;
+    width: 900px;
+    margin-left: 200px;
+}
+.contact .h1{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+}
+.contact h1 span{
+    color: gold;
+}
+.contact .proj{
+    margin-top: 30px;
+    background-color: rgb(46, 54, 124,0.5 );
+    color: black;
+    font-weight: bold;
+}
+.contact .proj:hover{
+    background-color:rgba(44, 44, 44, 0.5) ;
+    color: black;
+}
+
+.contact .but{
+    margin-top: 30px;
+    background-color: rgba(10, 13, 15 );
+    border:none;
+    color: #fff;
+}
+.contact .but:hover{
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+}

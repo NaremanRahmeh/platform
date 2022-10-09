@@ -1,0 +1,111 @@
+
+.learn1{
+    margin-top: 120px;
+}
+.learn1 p{
+    text-align: center;
+    font-size: 18px;
+    font-weight:500;
+    margin-bottom: 70px;
+}
+.learn1 h2{
+    text-align: center;
+    margin-top:30px;
+    padding-top: 40px;
+    margin-bottom: 30px;
+    font-weight:bolder;
+    font-family: 'Roboto Slab', serif;
+
+}
+.learn1 .body1{
+    background-image: url(../../images/imgLearn/uiphotos.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 570px;
+}
+.learn1 .design1{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 350px;
+    width: 570px;
+}
+.learn1 .body2{
+    background-image: url(../../images/imgLearn/ux.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 570px;
+}
+.learn1 .design1 h5{
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    padding-top: 140px;
+    font-weight: bold;
+}
+.learn1 .row{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.learn1 .body3{
+    background-image: url(../../images/imgLearn/htmlph.jpg) ;
+    background-size: cover;
+    height: 300px;
+}
+.learn1 .body4{
+    background-image: url(../../images/imgLearn/cssphotos.jpg) ;
+    background-size: cover;
+    height: 300px;
+}
+.learn1 .body5{
+    background-image: url(../../images/imgLearn/javaphotos.jpg) ;
+    background-size: cover;
+    height: 300px;
+}
+.learn1 .design2{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 300px;
+}
+.learn1 .design2 h5{
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    padding-top: 120px;
+    font-weight: bold;
+}
+.learn1 .body7{
+    background-image: url(../../images/imgLearn/programing.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 570px;
+}
+.learn1 .body8{
+    background-image: url(../../images/imgLearn/programing2.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 570px;
+}
+.learn1 .design1 h6{
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 140px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
+.learn1 .body9{
+    background-image: url(../../images/imgLearn/sql1.jpg) ;
+    background-size: cover;
+    height: 300px;
+}
+.learn1 .body10{
+    background-image: url(../../images/imgLearn/pythonphotos.jpg) ;
+    background-size: cover;
+    height: 300px;
+}
+.learn1 .body11{
+    background-image: url(../../images/imgLearn/11.jpg) ;
+    background-size: cover;
+    height: 300px;
+}

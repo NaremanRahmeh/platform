@@ -1,0 +1,110 @@
+.Allcours{
+    margin-top: 50px ;
+    padding-top: 20px;
+}
+.Allcours .container{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.Allcours .card {
+    border: 2px solid rgb(233, 233, 233 , 0.8);
+    background-color: rgb(233, 233, 233 , 0.8);
+    color: black;
+    font-size: 15px;
+}
+.Allcours .imag{
+    background-image: url(./../../images/imgAllcourse/htmlphoto.png);
+    background-size: cover;
+    
+}
+.Allcours .imag1{
+    background-image: url(./../../images/imgAllcourse/cssphoto.png);
+    background-size: cover;
+    
+}
+.Allcours .imag2{
+    background-image: url(./../../images/imgAllcourse/javaphoto.png);
+    background-size: cover;
+}
+.Allcours .imag3{
+    background-image: url(./../../images/imgAllcourse/pythonphoto.png);
+    background-size: cover;
+}
+.Allcours .imag4{
+    background-image: url(./../../images/imgAllcourse/jqueryphoto.png);
+    background-size: cover;
+}
+.Allcours .imag5{
+    background-image: url(./../../images/imgAllcourse/reactphoto.png);
+    background-size: cover;
+}
+.Allcours .save{
+    width: 25px;
+    height: 30px;
+    color: rgb(46, 54, 124,0.8 );
+    background-color:#fff ;
+}
+.Allcours .save:hover{
+    color:gold;
+}
+.Allcours .card1{
+    background-color: transparent;
+}
+.Allcours img{
+    background-color: rgba(10, 13, 15, 0.5);
+}
+.Allcours a{
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}
+.Allcours a:hover{
+    color: gold;
+}
+.Allcours .icon{
+    margin-right: 5px;
+    margin-left: 5px;
+    color: gold;
+}
+.Allcours .h3{
+    font-size: 20px;
+    text-align: center;
+}
+.Allcours p{
+    margin-top: 20px;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+.Allcours h4{
+    text-align:left;
+    margin-top: 20px;
+}
+.Allcours h2{
+    color: black;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.Allcours h2 span{
+    color: gold;
+}
+.Allcours ul li{
+    list-style-type: none;
+}
+.Allcours .row{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.Allcours .body{
+    align-items: center;
+    text-align: center;
+}
+.Allcours .btn{
+    background-color: rgb(46, 54, 124,0.8 );
+    color: #fff;
+    border: none;
+}
+.Allcours .btn:hover{
+    background-color: gold;
+    color: black;
+}

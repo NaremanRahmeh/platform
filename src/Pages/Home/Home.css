@@ -1,0 +1,166 @@
+
+ /* section tarks*/
+ .tarks .conta{
+    margin-top: 60px;
+    text-align: center;
+    color: black;
+ }
+ .tarks a{
+    text-decoration: none;
+    color: black;
+ }
+ .tarks a:hover{
+    color: gold;
+ }
+ .tarks p{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+
+ 
+ /* section learning*/
+.learning{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: black;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+ h1{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+     padding-bottom:60px;
+     font-family: 'Roboto Slab', serif;
+     text-align: center;
+    
+}
+.learn{
+    margin-top: 30px;
+}
+.learn .row{
+    margin-top: 50px;
+}
+.learning p{
+    font-size: 18px;
+    font-family: 'Roboto Slab', serif;
+    margin-top: 40px;
+}
+.learning h3{
+    margin-top: 40px;
+    color: black;
+}
+.courses{
+    margin-top: 80px;
+}
+.courses a{
+    color: #fff;
+    text-decoration: none;
+}
+/* .courses a:hover{
+    color: rgba(10, 13, 15, 0.897);  
+} */
+.courses main{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+
+}
+.courses main span{
+    color: gold;
+}
+.courses .card{
+   background-color: rgb(233, 233, 233 , 0.8); 
+   border: none;
+   color: black;
+   
+}
+.courses .card:hover{
+    background-color: rgba(255, 253, 253, 0.8);
+    color: black ;
+}
+.courses p{
+    font-size: 17px;
+    font-weight: normal;
+}
+
+
+.About-us{
+   margin-top: 60px; 
+}
+.About{
+    background-color: rgb(233, 233, 233 , 0.8);
+    color:black;
+    padding: 50px 50px 50px 50px;
+}
+.Glimpse{
+    background-color: rgb(30, 36, 85 , 0.9) ;
+    height: auto;
+    width: 90%;
+    padding: 30px 30px 30px 30px;
+    border-radius: 2px solid rgb(46, 54, 124 ,0.5);
+    color: #fff;
+    font-size: 20px;
+}
+.Glimpse1 h2{
+padding-top: 40px;
+}
+.Glimpse1 span{
+    color: gold;
+}
+.Glimpse1 p{
+padding-top: 20px;
+font-size: 20px;
+}
+
+
+
+.contact{
+    background-color: rgb(233, 233, 233 , 0.8);
+    border: 2px solid rgb(30, 36, 85);
+    height:auto;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 90px;
+}
+.contact .formcontact{
+    text-align: center;
+    width: 900px;
+    margin-left: 200px;
+}
+.contact .h1{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+}
+.contact h1 span{
+    color: gold;
+}
+.contact .proj{
+    margin-top: 30px;
+    background-color: rgb(46, 54, 124,0.5 );
+    color: black;
+    font-weight: bold;
+}
+.contact .proj:hover{
+    background-color:rgba(44, 44, 44, 0.5) ;
+    color: black;
+}
+
+.contact .but{
+    margin-top: 30px;
+    background-color: rgba(10, 13, 15 );
+    border:none;
+    color: #fff;
+}
+.contact .but:hover{
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+}
+
+
